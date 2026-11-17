@@ -94,7 +94,7 @@
 **Huang Lian Jie Du Tang (Coptis Decoction to Relieve Toxicity)**
 - Pattern: Excess Fire-Toxin throughout three warmers
 - Composition: Huang Lian, Huang Qin, Huang Bai, Zhi Zi
-- Clinical: Severe infections with high fever, sepsis support, severe inflammatory conditions
+- Clinical: Severe infections with high fever, severe inflammatory conditions — adjunct only, alongside biomedical treatment. **Suspected sepsis is a medical emergency: refer immediately.**
 - Caution: Bitter cold — damages Stomach; do not use long-term in Spleen deficiency
 
 **Long Dan Xie Gan Tang (Gentiana Drain the Liver Decoction)**
@@ -111,7 +111,7 @@
 **Yin Qiao San (Honeysuckle and Forsythia Powder)**
 - Pattern: Wind-Heat exterior; early febrile illness — Wei level warm disease
 - Composition: Jin Yin Hua, Lian Qiao, Bo He, Jie Geng, Niu Bang Zi, Dan Dou Chi, Jing Jie Sui, Dan Zhu Ye, Lu Gen, Zhi Gan Cao
-- Clinical: Common cold/flu (heat-type), early tonsillitis, early otitis media, early COVID respiratory symptoms
+- Clinical: Common cold/flu (heat-type), early tonsillitis, early otitis media, early COVID respiratory symptoms (evidence limited; not a substitute for testing or biomedical care)
 
 ---
 
@@ -188,6 +188,7 @@
 **Dang Gui Si Ni Tang (Tangkuei Decoction for Frigid Extremities)**
 - Pattern: Cold Obstruction in channels — Xue (Blood) Cold; Cold hands and feet from Blood deficiency + Cold invasion
 - Composition: Dang Gui, Gui Zhi, Bai Shao, Xi Xin, Tong Cao, Da Zao, Zhi Gan Cao
+- Caution: Xi Xin — aristolochic acid concern and classical dose ceiling; see §4 Toxic / Restricted Substances
 - Clinical: Ice-cold extremities (especially fingers), Raynaud's syndrome (Cold-Blood type), frostbite sequelae, cold-type dysmenorrhoea
 
 ### Exterior-Releasing Formulas (Jie Biao Ji 解表劑)
@@ -236,18 +237,20 @@
 **An Gong Niu Huang Wan (Calm the Palace Pill with Cattle Gallstone)**
 - Pattern: Hot Closed type — Phlegm-Heat blocking Heart orifices
 - Clinical: High fever with unconsciousness, delirium, convulsions, hot skin, red face
-- Modern use: Stroke (ischaemic, early), encephalitis, meningitis (Heat type)
+- Historical / in-hospital use (China): Stroke (ischaemic, early), encephalitis, meningitis (Heat type) — **never a substitute for emergency care; these presentations go to emergency services first**
+- **TOXICITY: contains Zhu Sha (cinnabar — mercury) and Xiong Huang (realgar — arsenic).** See §4 Toxic / Restricted Substances.
 
 **Su He Xiang Wan (Liquid Styrax Pill)**
 - Pattern: Cold Closed type — Cold-Phlegm blocking Heart orifices
 - Clinical: Sudden loss of consciousness with cold limbs, pale face, trismus
-- Modern use: Cold-type stroke, cardiac events with cold presentation
+- Historical / in-hospital use (China): Cold-type stroke, cardiac events with cold presentation — **never a substitute for emergency care**
 
 **Zi Xue Dan (Purple Snow Elixir)**
 - Pattern: High fever, convulsions, delirium — extreme Heat stirring Wind, threatening orifices
-- Clinical: Severe febrile illness with neurological involvement
+- Clinical: Severe febrile illness with neurological involvement (in-hospital context only)
+- **TOXICITY: contains Zhu Sha (cinnabar — mercury) among other mineral ingredients.** See §4 Toxic / Restricted Substances.
 
-**Clinical rule:** Open = strong pulse, clenched jaw, closed fists. Do not use tonics. Open = Bi pattern.
+**Clinical rule:** Closed (Bi 閉) = strong pulse, clenched jaw, closed fists. Do not use tonics — open the orifices.
 Collapse (Tuo) = weak pulse, open jaw, open hands, profuse sweat. Do NOT open — rescue Yang immediately with Shen Fu Tang (ginseng + aconite).
 
 ### Digestive/Food Stagnation Formulas (Xiao Dao Ji 消導劑)
@@ -326,7 +329,7 @@ Classical formulas are starting points. Modifications (Jia Jian 加減) individu
 - Evidence: Berberine — significant anti-diabetic evidence (insulin sensitiser); antimicrobial
 - Drug interaction: Metformin (additive); cyclosporine; digoxin
 
-**Huang Qi (Scutellaria baicalensis)** — Bitter; cold
+**Huang Qin (Scutellaria baicalensis)** — Bitter; cold
 - Functions: Drains Fire; dries Damp; clears Heat-Toxin; calms fetus
 - Distinguished from Huang Qi (Astragalus) — completely different herb despite similar pinyin
 
@@ -417,8 +420,29 @@ Classical formulas are starting points. Modifications (Jia Jian 加減) individu
 | Huang Lian (Berberine) | Metformin, cyclosporine | Altered pharmacokinetics | MODERATE |
 | St John's Wort (Western but crosses systems) | Many drugs (CYP3A4 inducer) | Reduces drug levels | HIGH — major interactions |
 | Chan Su (cardiac glycoside source) | Digoxin | Additive cardiac effects | HIGH — dangerous |
+| Gou Qi Zi (Lycium) | Warfarin | Raised INR (case reports) | MODERATE — monitor INR |
 
 **Always ask about all concurrent medications before prescribing herbs.**
+
+### Toxic / Restricted Substances — Critical Safety
+
+**Fu Zi (Aconitum carmichaelii, lateral root)** — Acrid, sweet; very hot; **toxic**
+- Present in: Jin Gui Shen Qi Wan, You Gui Wan, Fu Zi Li Zhong Wan, Zhen Wu Tang, Shen Fu Tang, Si Ni Tang
+- Toxicity: Aconitine alkaloids — cardiotoxic and neurotoxic. Signs: perioral/limb numbness and tingling, nausea, vomiting, hypotension, bradycardia or ventricular arrhythmia; fatal cases documented
+- Rules: Processed form only (Zhi Fu Zi / Pao Fu Zi) — never raw; pre-decoct (Xian Jian 先煎) before other herbs; contraindicated in pregnancy; avoid in Heat patterns and Yin deficiency with Heat; caution with cardiac disease and antiarrhythmics
+- Classical incompatibility (Shi Ba Fan 十八反): Wu Tou (aconite) opposes Ban Xia, Gua Lou, Bei Mu, Bai Lian, Bai Ji
+- Recommend only under qualified practitioner supervision
+
+**Zhu Sha (Cinnabar — mercuric sulphide) and Xiong Huang (Realgar — arsenic sulphide)**
+- Present in: An Gong Niu Huang Wan (both), Zi Xue Dan (Zhu Sha), and some calming/Shen-settling patent pills
+- Risks: Mercury and arsenic accumulation — renal, hepatic and neurological toxicity
+- Rules: Not for self-medication, long-term use, children, pregnancy or breastfeeding, or renal/hepatic impairment. Import and sale are restricted in many jurisdictions — check local regulation before recommending
+
+**Aristolochic acid herbs**
+- Guan Mu Tong (Aristolochia manshuriensis) and Guang Fang Ji (Aristolochia fangchi): nephrotoxic and carcinogenic (aristolochic acid nephropathy; urothelial cancer). **Do not use.** Substitute Chuan Mu Tong (Clematis) or Tong Cao (Tetrapanax) for Mu Tong; Han Fang Ji (Stephania) for Fang Ji — and verify species identity of the product
+- Xi Xin (Asarum): contains aristolochic acid (concentrated in aerial parts — root only should be used). Classical dose ceiling: "Xi Xin bu guo qian" (細辛不過錢 — do not exceed one qian, ~3 g, especially in powder form). Avoid in renal disease and pregnancy
+
+**Animal toxins (Quan Xie, Wu Gong, Chan Su)** — see entries above; supervised use only. Chan Su (toad venom) is a cardiac glycoside source — never with digoxin
 
 ---
 
@@ -429,7 +453,7 @@ Classical formulas are starting points. Modifications (Jia Jian 加減) individu
 - Telomerase activation (TA-65 research) — Jing preservation parallel
 - Anti-fatigue: Improves mitochondrial function in animal models
 
-**Berberine (from Huang Lian, Huang Bai, Huang Qi):**
+**Berberine (from Huang Lian, Huang Bai):**
 - AMPK activation (same pathway as metformin) → insulin sensitisation
 - Lipid lowering (inhibits PCSK9)
 - Microbiome modulation

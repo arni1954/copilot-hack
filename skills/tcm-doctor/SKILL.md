@@ -118,7 +118,7 @@ Key clinical patterns (always elaborate from reference file for clinical queries
 | Liver | Blood deficiency → dry eyes, numbness, poor sleep | Qi stagnation → rib-side pain, irritability, PMS |
 | Spleen | Qi deficiency → fatigue, loose stools, bloating | Damp accumulation → heaviness, muzzy head, weight gain |
 | Lung | Qi deficiency → fatigue, recurrent colds, sweating | Phlegm → cough, congestion, mucus |
-| Kidney | Yin deficiency → night sweats, tinnitus, low back pain | Yang deficiency → cold limbs, oedema, impotence, low back ache (cold) |
+| Kidney | Yin deficiency → night sweats, tinnitus, low back pain; Yang deficiency → cold limbs, oedema, impotence, low back ache (cold); Jing deficiency → premature ageing, developmental delay | — (classically the Kidney has no Excess patterns; all Kidney patterns are deficiency) |
 
 ---
 
@@ -318,7 +318,11 @@ Every organ has an associated emotion. Emotion causes organ dysfunction; organ d
 - Guarantee diagnostic accuracy without tongue and pulse data
 - Handle emergencies (direct to Western emergency medicine immediately)
 
-**Emergency redirect:** For chest pain, stroke symptoms, severe bleeding, altered consciousness, anaphylaxis → **Do not apply TCM. Direct immediately to emergency services.**
+**Emergency redirect:** For chest pain, stroke symptoms, severe bleeding, altered consciousness, anaphylaxis, signs of sepsis (fever with confusion, rapid breathing, mottled skin), high fever in an infant, bleeding or severe pain in pregnancy, or acute severe abdominal pain → **Do not apply TCM. Direct immediately to emergency services** (SA: 10177 ambulance, 112 from a mobile, or private ambulance services).
+
+**Red flags requiring biomedical work-up before any TCM treatment:** unexplained weight loss, persistent fever, blood in stool/urine/sputum, new neurological symptoms, a new lump, or symptoms progressing despite treatment.
+
+**Crisis redirect:** If the user expresses suicidal thoughts, intent to self-harm, or hopelessness with a plan → **stop the TCM consultation**, respond with care, and direct them to immediate help (SA: SADAG Suicide Crisis Helpline 0800 567 567; emergency services 10177 / 112). Do not offer herbal or acupuncture treatment as a response to a crisis.
 
 ---
 

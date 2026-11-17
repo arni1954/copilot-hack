@@ -119,10 +119,10 @@ The Kidney is the organ system most directly linked to longevity — it stores J
 *For: premature ageing, constitutional weakness, developmental issues, Jing-level depletion (early greying, hair loss, bone fragility, cognitive decline, loss of reproductive vitality)*
 
 **Herbs (all with strong Jing-supplementing action):**
-- He Shou Wu (Polygonum multiflorum) — **(SAFETY: hepatotoxicity risk — use processed form Zhi He Shou Wu; monitor LFTs; do not use >3 months without break)** — stilbene glycosides → sirtuin activation; telomerase activity
+- He Shou Wu (Polygonum multiflorum) — **(SAFETY: hepatotoxicity risk, including with processed Zhi He Shou Wu — processing reduces but does not eliminate risk; baseline and periodic LFTs; do not use >3 months without break; avoid in liver disease)** — stilbene glycosides → sirtuin activation and telomerase activity (preclinical only)
 - Lu Jiao Jiao (Deer Antler Glue) — concentrated Pre-Heaven essence supplement; IGF-1 stimulating effect; bone and marrow; collagen
-- Gui Ban Jiao (Tortoise Plastron Glue) — tonifies Kidney and Liver Yin; nourishes Jing; consolidates essence; anti-ageing via multiple pathways
-- Zi He Che (Placenta hominis) — strongest Jing supplement in the classical materia medica; contains growth factors, IGF-1, EPO; significant regulatory restrictions in many countries (including SA) — discuss sourcing
+- Gui Ban Jiao (Tortoise Plastron Glue) — tonifies Kidney and Liver Yin; nourishes Jing; consolidates essence. **Sourcing:** many tortoise/turtle species are CITES-listed — verify legal, farmed sourcing or substitute
+- Zi He Che (Placenta hominis) — classically regarded as the strongest Jing supplement; modern claims of growth-factor content are not well supported. **Risks:** human-tissue product — infectious disease transmission risk (e.g. viral hepatitis, HIV) if improperly sourced/processed; significant regulatory restrictions in many countries (including SA). Generally prefer plant-based alternatives (Zuo Gui Wan)
 - Ren Shen (Ginseng) — Yuan Qi tonic that supports Jing refinement from Post-Heaven sources; ginsenoside Rb1 → telomerase activation
 
 **Base formula:** He Che Da Zao Wan (includes Zi He Che) or Zuo Gui Wan (plant-based Jing formula)
@@ -175,13 +175,14 @@ The Shen Nong Ben Cao Jing (Divine Farmer's Materia Medica, ~200 CE) designates 
 - Classical: "The bright-eye berry"; Liver-Kidney Yin; longevity; eyes; bones
 - Modern: Zeaxanthin → macular protection (strong evidence); polysaccharides → immune modulation; betaine → methylation cycle support; anti-glycation properties
 - Longevity targets: Macular degeneration prevention; methylation; immune; anti-oxidant
-- Dose: 10-30g daily (food-grade dose); long-term safe
+- Dose: 10-30g daily (food-grade dose); generally well tolerated long-term
+- Drug interaction: Warfarin — raised INR in case reports; monitor INR
 
 **He Shou Wu (Polygonum multiflorum) — 何首烏**
 - Classical: The quintessential anti-ageing herb; Liver-Kidney Yin and Jing; hair; bones; longevity
 - Modern: Stilbene glycosides → sirtuin activation (SIRT1); resveratrol analogue activity; telomerase activation; antioxidant
-- **CRITICAL SAFETY**: Hepatotoxicity — cases of severe/fatal liver injury documented. Use ONLY processed form (Zhi He Shou Wu). Do not use in liver disease, alcohol excess, or with hepatotoxic drugs. Limit cycles to 3 months on/1 month off. Monitor LFTs.
-- When safe: Powerful Jing-level anti-ageing; prescribed with risk discussion and monitoring
+- **CRITICAL SAFETY**: Hepatotoxicity — cases of severe/fatal liver injury documented, including with processed products. Use ONLY processed form (Zhi He Shou Wu) — this lowers but does not remove the risk. Do not use in liver disease, alcohol excess, or with hepatotoxic drugs. Limit cycles to 3 months on/1 month off. Monitor LFTs.
+- When used: Classically regarded as a major Jing tonic; human evidence for anti-ageing effects is lacking. Prescribe only with risk discussion and monitoring; consider safer alternatives (Nu Zhen Zi, Hei Zhi Ma, Gou Qi Zi) first
 
 **Tu Si Zi (Cuscuta) — 菟絲子**
 - Classical: Tonifies Kidney Yang and Yin simultaneously; consolidates Jing; reproductive longevity; eyes
@@ -593,11 +594,14 @@ The classical tradition recognised that chronological age and functional age div
 - Yin deficiency: + Liu Wei Di Huang Wan; + Nu Zhen Zi, Han Lian Cao
 - Yang deficiency: + Jin Gui Shen Qi Wan; + Du Zhong, Tu Si Zi, Rou Cong Rong
 - Jing deficiency: + Zuo Gui Wan; + Rou Cong Rong, Lu Jiao Jiao (if available)
-- Blood stasis: + Dan Shen extract; + San Qi (Panax notoginseng)
+- Blood stasis: + Dan Shen extract; + San Qi (Panax notoginseng) — **both potentiate anticoagulants/antiplatelets: contraindicated with warfarin; check all medications**
 - Phlegm-Damp: + Yi Yi Ren 30g in food; Yi Gong San base
 
-**Modern longevity pharmacology that integrates with TCM (not contraindicated):**
-- Berberine 500mg 2x daily (Huang Lian active compound) — AMPK; insulin sensitisation; lipid
+**Modern longevity compounds sometimes combined with TCM (interaction checks required):**
+
+> **Stacking warning:** This protocol can combine several herbs that affect bleeding (Dan Shen, San Qi, Dang Gui, Gou Qi Zi, Ren Shen) and CYP enzymes (Wu Wei Zi, berberine). Stacked effects are poorly studied. Screen for anticoagulants, antiplatelets, diabetes medication, immunosuppressants and any narrow-therapeutic-index drug before combining. Physician oversight when the user is on prescription medication.
+
+- Berberine 500mg 2x daily (Huang Lian active compound) — AMPK; insulin sensitisation; lipid. **Cautions:** CYP3A4/2D6 inhibition (raises levels of many drugs, e.g. cyclosporine); additive hypoglycaemia with metformin, sulphonylureas, insulin; contraindicated in pregnancy, breastfeeding and neonates (bilirubin displacement); GI upset common
 - NMN or NR (NAD+ precursors) — parallel to Kidney Jing Qi cultivation
 - Urolithin A — mitophagy (removes damaged mitochondria) — no TCM parallel; additive
 - Magnesium glycinate — Kidney mineral support; sleep; cardiovascular
